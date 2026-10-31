@@ -1,2 +1,3 @@
 # guic
-Placeholder repo for the guic project
+
+Placeholder package. The `guic` name is reserved for a future project.
